@@ -1,0 +1,74 @@
+seo:
+  title: "Jan Peter Reillo - Aspiring Developer Portfolio"
+  description: "Welcome to my portfolio! I'm Jan Peter Reillo, a web developer based in General Santos."
+title: "Hello, Jan Peter Reillo here."
+description: "An aspiring web developer based in General Santos with an experience in development and design in competitions such as  Worldskills PNSC and work like Shopify and Wordpress."
+hero:
+  links:
+    - label: "Email me"
+      to: mailto:reillojan@gmail.com
+      color: "neutral"
+  images:
+    - src: /img/nolt.png
+      alt: Nolt Website
+    - src: /img/azpireadvisory.jpg
+      alt: Azpire Advisory Website
+    - src: /img/pathway.jpg
+      alt: Pathway Website
+  
+about:
+  title: "About Me"
+  description: |
+    As a web developer with experience in development and design in competitions such as Worldskills PNSC and work like Shopify and Wordpress, I am passionate about creating innovative digital solutions.
+    My approach blends creative strategy with technical expertise, transforming concepts into functional, purposeful digital products that seamlessly integrate design and technology.
+experience:
+  title: Work Experience
+  items:
+  
+    - position: "IT Specialist at"
+      date: "2025- Present"
+      company:
+        name: AzpireAdvisory
+        logo: "img/azpireadivsory-logo.png"
+        url: "https:azpireadvisory.com"
+        color: "#D2A651"
+    - position: "Graphic Designer/Web Developer at"
+      date: "2024 - 2025"
+      company:
+        name: Nolt
+        logo: "img/nolt-logo.png"
+        url: "https://nolt.com"
+        color: "#72E672"
+    - position: "Web Technologies Competitor at"
+      date: "Aug 2024"
+      company:
+        name: PNSC
+        logo: "img/pnsc-logo.png"
+        url: "https://worldskillsasean2025.com/news/2024pnsc/"
+        color: "#72E672"
+testimonials:
+  - quote: "So far I'm very happy with the results of Jan Peter's work. He took the time to understand our business needs and translated them into a user-friendly website that looks great and functions smoothly. His expertise in wordpress and development made the entire process seamless. I highly recommend him for anyone looking to elevate their online presence."
+    author:
+      name: 'Jen Nadado'
+      description: 'Founder of Azpire Advisory'
+      avatar:
+        src: 
+        alt: 'Jen Nadado Avatar'
+faq:
+  title: Frequently Asked Questions
+  description: Answers to common questions about my process and services.
+  categories:
+    - title: Services & Process
+      questions:
+        - label: What services do you offer?
+          content: |
+            I specialize in back-end and front-end development. This includes building responsive websites and web applications (especially with Vue.js/Nuxt.js), and developing backend using Laravel and mySQL. My goal is to create seamless digital experiences from concept to deployment.
+        
+    - title: About Me
+      questions:
+        - label: What do you enjoy most about your work?
+          content: |
+            I love the challenge of solving complex problems through design and technology. It makes me happy to see people interact with something I've created and find it genuinely useful and easy to navigate. Bridging the gap between user needs and technical possibilities is what truly excites me.
+        - label: What are your hobbies outside of work?
+          content: |
+            When I'm not designing or coding, I enjoy brisk walking or swimming/lifting as a sport for fitness. I'm also passionate about photography and occasionally contribute to open-source projects.

@@ -1,0 +1,27 @@
+title: About Me
+description: Learn more about my journey as an aspiring developer, my work ethics, and my passion for crafting intuitive digital experiences.
+content: |
+  Hi, I'm **Jan Peter A. Reillo**, an aspiring developer based right here in General Santos. For the past 4 years, I've been immersed in the world of technology, focusing on building experiences that are not just functional but genuinely intuitive and engaging for users.
+
+  My path started at **STI College General**, where I earned a degree in Computer Science. It was there I discovered my dual passion for designing and the logical puzzle of code. Since then, I've honed my skills in both areas, believing that the best digital products are born from a deep understanding of both aesthetics and implementation.
+
+  ### My Development Approach
+
+  My design philosophy is rooted in **perseverance** and **problem-solving**. I believe that great software starts with understanding the 'why'—the user's needs and how they interact with the product
+
+  As an aspiring developer, I strive to bridge the gap between design and engineering. I use my familiarity with prototyping tools like Figma to better understand requirements, ensuring that the Vue.js and Nuxt.js code I write translates into interfaces that are both functional and pixel-perfect. My goal for this internship is to contribute clean, effective code that creates real value for the end-user.
+
+  ### What Drives Me
+
+  What keeps me excited about development is the opportunity for constant learning. I love the challenge of taking complex requirements and translating them into clean, efficient code. For me, there is nothing more rewarding than the process of turning a static design into a fully functional, interactive reality—and knowing that my work makes the user’s experience smoother and more enjoyable.
+
+  ### Beyond the Screen
+
+  When I'm not designing or coding, you might find me in General Santos' swimming pool, walking outside, or occasionally drinking matcha.
+
+  
+images:
+  - src: img/swimming.jpg
+    alt: Me, swimming on the pool.
+  - src: https://images.unsplash.com/photo-1744429523595-2c06b8611242?q=80&w=1587&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+    alt: My Dream Country, Japan.
